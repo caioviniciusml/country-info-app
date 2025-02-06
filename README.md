@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
 
 #### 1. Clone the Repository
 
-`git clone https://github.com/seu-usuario/country-info-app.git`
+`git clone https://github.com/caioviniciusml/country-info-app`
 
 #### 2. Navigate to the backend directory:
 
